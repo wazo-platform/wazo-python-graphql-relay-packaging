@@ -13,5 +13,6 @@ Package: python3-graphql-relay
 Architecture: all
 Depends: ${misc:Depends},
          ${python3:Depends},
+         python3-promise
 Description: Library to allow the easy creation of Relay-compliant servers using the GraphQL Python.
  .
