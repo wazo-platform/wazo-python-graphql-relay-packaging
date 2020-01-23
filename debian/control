@@ -14,5 +14,8 @@ Architecture: all
 Depends: ${misc:Depends},
          ${python3:Depends},
          python3-promise
-Description: Library to allow the easy creation of Relay-compliant servers using the GraphQL Python.
+Description: Library to allow the easy creation of Relay-compliant servers using GraphQL
  .
+ GraphQL-relay-py is the Relay library for GraphQL-core.
+ .
+ It allows the easy creation of Relay-compliant servers using GraphQL-core.
