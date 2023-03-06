@@ -13,7 +13,9 @@ Package: python3-graphql-relay
 Architecture: all
 Depends: ${misc:Depends},
          ${python3:Depends},
-         python3-promise
+         python3-graphql-core (>= 3.2.0),
+         python3-graphql-core (<< 3.3.0),
+         python3-typing-extensions (>= 4.1.0)
 Description: Library to allow the easy creation of Relay-compliant servers using GraphQL
  GraphQL-relay-py is the Relay library for GraphQL-core.
  It allows the easy creation of Relay-compliant servers using GraphQL-core.
