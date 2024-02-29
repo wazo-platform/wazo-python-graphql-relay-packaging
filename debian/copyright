@@ -1,9 +1,9 @@
-Format: http://www.debian.org/doc/packaging-manuals/Copyright 1-2019 The Wazo Authors  (see the AUTHORS file)
-Upstream-Name: email-validator
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: graphql-relay
 Source: https://github.com/graphql-python/graphql-relay-py
 
 Files: *
-Copyright: Syrus Akbary 
+Copyright: Syrus Akbary
 License: MIT
 
 Files: debian/*

@@ -1,3 +1,9 @@
+wazo-python-graphql-relay-packaging (3.2.0-1~wazo4) wazo-dev-bullseye; urgency=medium
+
+  * Fix copyright Format
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Thu, 29 Feb 2024 11:31:04 -0500
+
 wazo-python-graphql-relay-packaging (3.2.0-1~wazo3) wazo-dev-bullseye; urgency=medium
 
   * Update zuul config
